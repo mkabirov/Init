@@ -1,0 +1,10 @@
+#Via SSH:
+hostname -I (check IP addr)
+ssh <userName>@<ipAddr>
+
+#or
+
+su <userName>
+
+#Graphic mode:
+click on arrow on top right corner - Switch Users 

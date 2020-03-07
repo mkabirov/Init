@@ -1,0 +1,5 @@
+that file contatins hostmane information and should be modified
+
+cat /etc/hostname
+
+

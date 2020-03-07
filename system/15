@@ -1,0 +1,8 @@
+#by name (full or partial)
+
+pkill tail
+
+#by job number
+
+jobs
+kill <job number>

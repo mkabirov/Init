@@ -1,0 +1,2 @@
+traceroute slash16.org | grep 'nat'
+The one with 'nat'(Network Address Translation) is the IP of the server in Internet

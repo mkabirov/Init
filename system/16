@@ -1,0 +1,22 @@
+cron jobs
+
+install or create:
+
+$ crontab -e
+
+The syntax is:
+
+1 2 3 4 5 /path/to/command arg1 arg2
+
+or
+
+1 2 3 4 5 /root/backup.sh
+
+Where,
+
+1: Minute (0-59)
+2: Hours (0-23)
+3: Day (0-31)
+4: Month (0-12 [12 == December])
+5: Day of the week(0-7 [7 or 0 == sunday])
+/path/to/command – Script or command name to schedule

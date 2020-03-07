@@ -1,0 +1,5 @@
+lsblk
+
+#or
+
+df -h | grep ^/dev

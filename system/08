@@ -1,0 +1,5 @@
+cat /etc/ssh/ssh_host_rsa_key
+
+#or
+
+~/.ssh/authorized_keys
